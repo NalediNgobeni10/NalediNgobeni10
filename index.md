@@ -21,16 +21,6 @@ To obtain a Work Integrated Learning placement where I can contribute to a profe
 
 ---
 
-## Education
-
-| Institution | Qualification | Year |
-|-------------|--------------|------|
-| Cape Peninsula University of Technology | Diploma in ICT: Application Development | 2024 – Present |
-| Cape Peninsula University of Technology | Higher Certificate in Information Technology | 2023 |
-| Msengi Secondary School | National Senior Certificate | 2019 |
-
----
-
 ## Technical Skills
 
 - Java
@@ -41,41 +31,6 @@ To obtain a Work Integrated Learning placement where I can contribute to a profe
 - Web Development Fundamentals
 - Database Integration
 - Testing and Quality Assurance
-- Teamwork and Collaboration
-- Leadership and Project Coordination
-- Oral and Written Communication
-- Time Management
-
----
-
-## Projects
-
-### Youth for a Change – NGO Website
-
-**Role:** Quality Assurance Specialist  
-**Technologies:** HTML, CSS, Java  
-
-Developed and tested an interactive website for a non-profit organisation supporting underprivileged children through educational and community initiatives.
-
-**Responsibilities:**
-- Tested website functionality and usability
-- Ensured consistent design and performance
-- Collaborated with developers to improve content and features
-
----
-
-### CareLink – Virtual Counselling System
-
-**Role:** Front-End Developer and Team Leader  
-**Technologies:** Java, JDBC  
-
-Built a virtual counselling system for CPUT students and staff, allowing secure access to support services.
-
-**Responsibilities:**
-- Developed login, registration, and booking interfaces
-- Assisted with system design and feature implementation
-- Promoted user privacy and secure access
-- Coordinated tasks within the development team
 
 ---
 
