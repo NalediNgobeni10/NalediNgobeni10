@@ -7,13 +7,10 @@ I am a third-year ICT Application Development student at Cape Peninsula Universi
 ## Portfolio Contents
 - Professional CV
 - Mock Interview Video
-- Skills and Technologies
-- Academic Projects
 
 ## Quick Access
 - [View My CV](Project%20Presentation%20CV.pdf)
 - [Watch My Mock Interview](Mock%20interview.mp4)
-- [Visit My Portfolio Website](https://naledingobeni10.github.io)
 
 ## Technical Skills
 - Java
@@ -23,6 +20,5 @@ I am a third-year ICT Application Development student at Cape Peninsula Universi
 - GitHub
 - Database Integration
 - Testing and Quality Assurance
-- Teamwork and Leadership
 
 Thank you for viewing my portfolio.
