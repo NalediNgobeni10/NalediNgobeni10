@@ -1,16 +1,28 @@
-## Hi there 👋
+# Naledi Ngobeni | ICT Application Development Student
 
-<!--
-**NalediNgobeni10/NalediNgobeni10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Portfolio.
 
-Here are some ideas to get you started:
+I am a third-year ICT Application Development student at Cape Peninsula University of Technology with an interest in software development, database integration, and creating systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Contents
+- Professional CV
+- Mock Interview Video
+- Skills and Technologies
+- Academic Projects
+
+## Quick Access
+- [View My CV](Project%20Presentation%20CV.pdf)
+- [Watch My Mock Interview](Mock%20interview.mp4)
+- [Visit My Portfolio Website](https://naledingobeni10.github.io)
+
+## Technical Skills
+- Java
+- JDBC
+- HTML
+- CSS
+- GitHub
+- Database Integration
+- Testing and Quality Assurance
+- Teamwork and Leadership
+
+Thank you for viewing my portfolio.
