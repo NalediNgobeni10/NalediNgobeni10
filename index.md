@@ -28,7 +28,7 @@ To obtain a Work Integrated Learning placement where I can contribute to a profe
 
 | Institution | Qualification | Year |
 |-------------|--------------|------|
-| Cape Peninsula University of Technology | Diploma in ICT: Application Development | 2023 – Present |
+| Cape Peninsula University of Technology | Diploma in ICT: Application Development | 2024 – Present |
 | Cape Peninsula University of Technology | Higher Certificate in Information Technology | 2023 |
 | Msengi Secondary School | National Senior Certificate | 2019 |
 
