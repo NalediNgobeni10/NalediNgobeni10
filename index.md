@@ -85,9 +85,9 @@ Built a virtual counselling system for CPUT students and staff.
 
 ## 🎥 Mock Interview Video
 
-<video width="700" controls>
+<video width="640" height="360" controls>
   <source src="mock-interview.mp4" type="video/mp4">
-</video>
+  Your browser does not support the video tag.
 
 ---
 
