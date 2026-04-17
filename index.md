@@ -92,7 +92,7 @@ Built a virtual counselling system for CPUT students and staff.
 
 ---
 
-## 🧠 Reflection: Coding in Markdown (STAR Method)
+## 🧠 Reflection: Coding in Markdown
 
 **Situation:** I was required to create a professional CV using Markdown for my GitHub portfolio.  
 **Task:** I needed to structure my CV clearly while ensuring it remained readable and professional.  
@@ -100,8 +100,8 @@ Built a virtual counselling system for CPUT students and staff.
 **Result:** I was able to produce a clean and structured CV that is easy to read and suitable for an online portfolio.
 
 ---
-
-## 🧠 Reflection: Mock Interview (STAR Method)
+STAR
+## 🧠 Reflection: Mock Interview
 
 **Situation:** I participated in a mock interview as part of my work readiness training.  
 **Task:** I needed to present myself professionally and answer interview questions confidently.  
@@ -110,7 +110,7 @@ Built a virtual counselling system for CPUT students and staff.
 
 ---
 
-## 🧠 Reflection: GitHub Pages (STAR Method)
+## 🧠 Reflection: GitHub Pages
 
 **Situation:** I was required to publish my portfolio using GitHub Pages.  
 **Task:** I needed to convert my repository into a live website.  
