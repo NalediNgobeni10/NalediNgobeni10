@@ -8,17 +8,17 @@
 
 ---
 
-## 🎯 Career Overview
+##  Career Overview
 Analytical and detail-oriented ICT Application Development student with strong foundations in software development, web technologies, and database integration. Experienced in collaborative academic projects, quality assurance, and team leadership. Passionate about building systems that solve real-world problems and continuously learning new technologies.
 
 ---
 
-## 🚀 Career Objective
+##  Career Objective
 To obtain a Work Integrated Learning (WIL) placement where I can contribute to a professional team, strengthen my software development skills, and gain practical industry experience.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Cape Peninsula University of Technology**  
 Diploma in ICT: Application Development *(2024 – Present)*  
@@ -31,7 +31,7 @@ National Senior Certificate *(2019)*
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 - Java  
 - JDBC  
 - HTML  
@@ -46,9 +46,9 @@ National Senior Certificate *(2019)*
 
 ---
 
-## 🛠️ Projects
+##  Projects
 
-### 🌍 Youth for a Change – NGO Website
+###  Youth for a Change – NGO Website
 **Role:** Quality Assurance Specialist  
 **Technologies:** HTML, CSS, Java  
 
@@ -61,7 +61,7 @@ Developed and tested an interactive website for a non-profit organisation suppor
 
 ---
 
-### 💙 CareLink – Virtual Counselling System
+###  CareLink – Virtual Counselling System
 **Role:** Front-End Developer & Team Leader  
 **Technologies:** Java, JDBC  
 
@@ -75,7 +75,7 @@ Built a virtual counselling system for CPUT students and staff.
 
 ---
 
-## 📌 Additional Experience
+##  Additional Experience
 - Participated in group software development projects  
 - Assisted with technical documentation and presentations  
 - Worked in teams to meet deadlines  
@@ -83,7 +83,7 @@ Built a virtual counselling system for CPUT students and staff.
 
 ---
 
-## 🎥 Mock Interview Video
+##  Mock Interview Video
 
 <video width="640" height="360" controls>
   <source src="mock-interview.mp4" type="video/mp4">
@@ -92,7 +92,7 @@ Built a virtual counselling system for CPUT students and staff.
 
 ---
 
-## 🧠 Reflection: Coding in Markdown
+##  Reflection: Coding in Markdown
 
 **Situation:** I was required to create a professional CV using Markdown for my GitHub portfolio.  
 **Task:** I needed to structure my CV clearly while ensuring it remained readable and professional.  
@@ -100,8 +100,8 @@ Built a virtual counselling system for CPUT students and staff.
 **Result:** I was able to produce a clean and structured CV that is easy to read and suitable for an online portfolio.
 
 ---
-STAR
-## 🧠 Reflection: Mock Interview
+
+##  Reflection: Mock Interview
 
 **Situation:** I participated in a mock interview as part of my work readiness training.  
 **Task:** I needed to present myself professionally and answer interview questions confidently.  
@@ -110,7 +110,7 @@ STAR
 
 ---
 
-## 🧠 Reflection: GitHub Pages
+##  Reflection: GitHub Pages
 
 **Situation:** I was required to publish my portfolio using GitHub Pages.  
 **Task:** I needed to convert my repository into a live website.  
@@ -119,7 +119,7 @@ STAR
 
 ---
 
-## 📄 References
+##  References
 
 **Mr Maremeni**  
 Principal – Msengi Secondary School  
