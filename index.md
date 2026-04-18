@@ -131,5 +131,5 @@ Dean of Informatics – Cape Peninsula University of Technology
 
 ---
 
-## 🙌 Thank You
+##  Thank You
 Thank you for viewing my portfolio. I am eager to contribute my skills and continue growing as a software developer.
