@@ -1,10 +1,10 @@
-# Naledi Ngobeni 👩‍💻
+# Naledi Ngobeni 
 ### Third-Year ICT Application Development Student
 
-📍 Cape Town, South Africa  
-📧 230742912@mycput.ac.za  
-📞 072 645 0657  
-🔗 GitHub: https://github.com/NalediNgobeni10  
+ Cape Town, South Africa  
+ 230742912@mycput.ac.za  
+ 072 645 0657  
+ GitHub: https://github.com/NalediNgobeni10  
 
 ---
 
@@ -123,11 +123,11 @@ Built a virtual counselling system for CPUT students and staff.
 
 **Mr Maremeni**  
 Principal – Msengi Secondary School  
-📞 078 800 9512  
+ 078 800 9512  
 
 **Prof Tembisa Ngqondi**  
 Dean of Informatics – Cape Peninsula University of Technology  
-📞 021 959 6911  
+ 021 959 6911  
 
 ---
 
