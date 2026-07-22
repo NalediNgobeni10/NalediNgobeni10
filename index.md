@@ -50,7 +50,7 @@ National Senior Certificate *(2019)*
 
 ###  Youth for a Change – NGO Website
 **Role:** Quality Assurance Specialist  
-**Technologies:** HTML, CSS, Java  
+**Technologies:** HTML, CSS, JavaScript  
 
 Developed and tested an interactive website for a non-profit organisation supporting underprivileged children.
 
