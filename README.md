@@ -17,7 +17,7 @@ I am a final-year ICT Application Development student at the Cape Peninsula Univ
 
 ##  Quick Access
 
-- [View My Resume](Naledi_Ngobeni_Resume.pdf)
+- [View My Resume](Naledi%20Ngobeni's%20Resume.pdf)
 
 ---
 
