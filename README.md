@@ -74,24 +74,19 @@ I am a final-year ICT Application Development student at the Cape Peninsula Univ
 ###  Pharmacy Prescription Management System
 A web-based application designed to manage patient prescriptions, appointments, and pharmacy operations while improving efficiency and accuracy.
 
-**Technologies:** JavaScript, React, SQL, HTML, CSS
+**Technologies:** React, SQL, and spring boot
 
 ###  Driving School Management System
 A management system for handling student registrations, lesson packages, vehicles, instructors, and payments.
 
-**Technologies:**  HTML, CSS, JavaScript, SQL
-
-###  Community Marketplace
-A mobile-first marketplace connecting students, faculty, and local vendors to buy and sell products within the community.
-
-**Technologies:** React, JavaScript, HTML, CSS, Figma
+**Technologies:**  React, SQL, and spring boot
 
 ---
 
 ##  Currently Learning
 
-- Spring Boot
-- REST APIs
+- Typescript
+- Firebase
 - Cloud Technologies
 - Advanced Power BI
 
