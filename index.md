@@ -246,6 +246,7 @@ By working on this team, we commit to the principles and agreements above.
 ## 2. User Stories and Tasks
 
 ### Evidence
+🔗 [View the full SafeStreet Trello board](https://trello.com/b/urZ9fk2y/safestreet-community-security-solution)
 User stories describe a feature from the user's point of view. Each story was broken into tasks on our Trello board.
 
 Every card on our Trello board contains a user story in its description, and the story is broken into subtasks. Each subtask is assigned to a team member and ticked off when done.
