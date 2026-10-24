@@ -133,3 +133,232 @@ Dean of Informatics – Cape Peninsula University of Technology
 
 ##  Thank You
 Thank you for viewing my portfolio. I am eager to contribute my skills and continue growing as a software developer.
+
+---
+---
+
+# SECOND SECTION: Agile Project Management Portfolio
+### Project Presentation 3 (PRP370S) – SafeStreet Community Security Solution
+
+## About This Section
+This is the second section of my portfolio. It documents the Agile practices I used during my Project-Based Work Integrated Learning (WIL) phase (July – August 2026), where my team of five built **SafeStreet**, a community security solution for Khayelitsha, Cape Town. I have since been placed in industry (from 1 September 2026), and I now apply the same habits there: daily stand-ups, asking questions early and tracking my tasks.
+
+**Team:** Result Mhlongo (Team Leader), Zanele Faith Mashifane, Naledi Ngobeni, Xiluva Nivea Makhuvele, Zanele Mjayezi
+**My role:** Designer (UI/UX), plus field interviews and user personas
+**Project tools:** Trello, GitHub, Microsoft Teams
+
+![SafeStreet Solution Architecture](safestreet-architecture.png)
+
+**Contents:** [1. Agile Team Charter](#1-agile-team-charter) · [2. User Stories and Tasks](#2-user-stories-and-tasks) · [3. Product Backlog](#3-product-backlog) · [4. Sprint Backlog](#4-sprint-backlog) · [5. Agile Logbook](#5-agile-logbook)
+
+---
+
+## 1. Agile Team Charter
+
+### Evidence
+*Charter adapted for the SafeStreet project. Last updated: 25 October 2026 (written up for this portfolio; it records how our team actually worked during July – August 2026).*
+
+#### 1. Team Purpose & Vision
+- **Team mission:** To make affordable, community-driven security available to residents and traders of Khayelitsha through technology, with patrol tracking, real-time alerts and WhatsApp response.
+- **Problem and who it affects:** Khayelitsha has high crime (theft, robbery and break-ins), crime spikes during load shedding at night, and private security is too expensive for most residents. It affects households, small businesses, informal traders and elderly residents.
+- **Success definition:**
+  - A working SafeStreet app prototype (MVP) covering incident reporting, patrol tracking, emergency alarm and subscription management
+  - Features that are validated by interviews with real Khayelitsha residents and traders
+  - A polished frontend that the lecturer approves
+  - A solution architecture and business model completed
+  - A successful project presentation and logbook submission
+- **Product / service:** SafeStreet Community Security Solution, a web and mobile app built with React.js, Spring Boot and MySQL.
+
+#### 2. Team Members & Roles
+| Name | Role | Key responsibilities |
+|---|---|---|
+| Result Mhlongo | Team Leader | Define the product vision, prioritise the backlog, accept work, liaise with the lecturer |
+| Zanele Faith Mashifane | Presenter | Present the team's work, keep the Trello backlog organised, document progress |
+| Naledi Ngobeni | Designer | UI/UX design (wireframes and high-fidelity mockups), field interviews, user personas |
+| Xiluva Nivea Makhuvele | Developer | Build and implement features, test functionality |
+| Zanele Mjayezi | Developer | Build and implement features, test functionality |
+
+#### 3. Ways of Working
+- **Agile framework:** Kanban on Trello, with the product backlog grouped into sprints using sprint labels.
+- **Ceremonies:**
+
+| Ceremony | Frequency | Purpose |
+|---|---|---|
+| Daily stand-up | Daily | What I completed, what I plan next, impediments (recorded in each member's Agile logbook) |
+| Sprint planning | Start of each sprint | Choose backlog cards for the sprint and assign subtasks |
+| Lecturer review / demo | At feedback sessions (for example 15 July, 4 and 5 August) | Show completed work and gather feedback |
+| Retrospective | Ongoing, via the reflection line in the logbook | What we learnt and what to improve |
+
+#### 4. Working Agreements
+- We show up prepared and on time
+- We respect timeboxes
+- We give constructive feedback
+- We raise blockers early
+- We update the Trello board and our logbooks regularly
+- We communicate absences in advance
+- We complete assigned subtasks or flag delays early
+- We share work-in-progress with the team before marking it done
+
+#### 5. Communication
+- **Primary channels:** Microsoft Teams (meetings and presentations), WhatsApp group chat
+- **Remote / hybrid norms:** Team meetings run online, and we share our screens when presenting
+
+#### 6. Decision-Making
+Decisions are made by **team consensus**, with the Team Leader deciding after hearing everyone's input when we cannot agree.
+
+#### 7. Definition of Done
+- Subtasks are completed and ticked off in the Trello checklist (progress shows 100%)
+- Work is reviewed by at least one other team member
+- Design and code follow the SafeStreet look (colours and logo, as the lecturer advised)
+- The lecturer or Team Leader accepts the work
+- The work is recorded in the Agile logbook
+
+#### 8. Core Values & Behaviours
+Respect · Transparency · Accountability · Trust · Learning mindset
+
+#### 9. Risks & Constraints
+- **Known risks:** Members falling behind because of other modules, finding times when everyone can meet, some members' internet connectivity, and difficulties pushing the team's work to GitHub.
+- **Dependencies:** Lecturer feedback and approval timelines, reliable internet access, and GitHub and Trello availability.
+- **Constraints:** Time (the project ran from July to August 2026), no budget (we used free tools: Trello, GitHub, Microsoft Teams), and mixed technical skills in the team.
+
+#### 10. Review & Improvement
+The charter is reviewed at the end of each sprint or when feedback changes our way of working.
+
+#### 11. Team Commitment
+By working on this team, we commit to the principles and agreements above.
+
+| Name | Agreement |
+|---|---|
+| Result Mhlongo | |
+| Zanele Faith Mashifane | |
+| Naledi Ngobeni | ✔ |
+| Xiluva Nivea Makhuvele | |
+| Zanele Mjayezi | |
+
+### Reflection
+**Situation:** Our team needed to work together on one project while balancing other modules.
+**Task:** I had to understand and follow the team's shared purpose and working agreements.
+**Action:** I followed the working agreements in daily stand-ups and my logbook, and I took the Designer role (wireframes, mockups, interviews and personas). We only wrote our charter up formally for this portfolio, after the project, so it records how we worked in practice. [Add one specific example of a working agreement you followed.]
+**Result:** I learnt that agreeing roles and ways of working early reduces confusion and saves time. [Add one thing you would do differently.]
+
+---
+
+## 2. User Stories and Tasks
+
+### Evidence
+User stories describe a feature from the user's point of view. Each story was broken into tasks on our Trello board.
+
+Every card on our Trello board contains a user story in its description, and the story is broken into subtasks. Each subtask is assigned to a team member and ticked off when done.
+
+![User story card 1: Community Needs Assessment](trello-card-1.png)
+![User story card 2: Crime and Security Landscape](trello-card-2.png)
+![User story card 3: Target User Personas](trello-card-3.png)
+![User story card 4: Low-Fidelity Wireframes](trello-card-4.png)
+![User story card 5: High-Fidelity UI Mockups](trello-card-5.png)
+![User story card 44: Mobile Payment Gateway](trello-card-44.png)
+
+| Card | User Story | My tasks (assigned to me) |
+|---|---|---|
+| 1. Conduct Community Needs Assessment in Khayelitsha | As a product team, we want to interview Khayelitsha residents and traders, so that we validate the real security problems before building the app. | Conduct field interviews with households, businesses and elderly residents |
+| 2. Analyse Crime & Security Landscape in Khayelitsha | As a product team, we want to analyse local crime data and existing security measures so that we understand where SafeStreet can have the greatest impact. | Identify existing security measures (patrols, private security, police) |
+| 3. Define Target User Personas | As a product team, we want documented user personas so that design and development decisions reflect real residents' needs. | Draft persona for community patrollers and guards |
+| 4. Design Low-Fidelity Wireframes for Core App Screens | As a designer, I want low-fidelity wireframes of the core screens so that the team agrees on app structure before visual design begins. | Sketch wireframe for the incident reporting screen |
+| 5. Design High-Fidelity UI Mockups | As a designer, I want high-fidelity mockups so that developers have a pixel-accurate design to build from. | Create high-fidelity mockup for the notifications screen |
+| 44. Integrate Mobile Payment Gateway | As a resident, I want to pay securely from my phone so that subscribing to SafeStreet is quick and safe. | Create payment confirmations and receipts |
+
+Each card's subtasks were shared across all five members, and every card shown reached 100% completion.
+
+### Reflection
+**Situation:** SafeStreet needed research, design and development work, and no single person could do it all.
+**Task:** We had to turn big goals into small pieces of work that each member could own.
+**Action:** We wrote each backlog item as a user story ("As a..., I want..., so that...") and split it into subtasks with an assigned member. I took tasks such as field interviews with households, businesses and elderly residents, mapping existing security measures, the community patroller and guard persona, and the notifications screen mockup. [Add one detail about how you did one of these, e.g. how an interview went.]
+**Result:** Writing stories from the user's point of view kept us focused on the real needs of Khayelitsha residents instead of just on features. Splitting stories into named subtasks made it clear who was responsible for what, and the checklist progress bars showed our progress at a glance. [Add one thing you would improve, e.g. smaller subtasks or due dates.]
+
+---
+
+## 3. Product Backlog
+
+### Evidence
+The product backlog is the prioritised list of everything the product needs.
+
+Our Trello board, "SafeStreet Community Security Solution", holds a **Product Backlog list of 51 numbered cards**, ordered so that the earliest work comes first. Cards are colour-labelled by sprint and show a checklist progress badge (for example 5/5).
+
+![Product Backlog list (51 cards)](trello-product-backlog.png)
+
+| # | Backlog Item | Sprint label | Progress |
+|---|---|---|---|
+| 1 | Conduct Community Needs Assessment in Khayelitsha | Sprint 1 | 5/5 done |
+| 2 | Analyse Crime & Security Landscape in Khayelitsha | Sprint 2 | 5/5 done |
+| 3 | Define Target User Personas | Sprint 3 | 5/5 done |
+| 4 | Design Low-Fidelity Wireframes for Core App Screens | Sprint 4 | 100% done |
+| 5 | Design High-Fidelity UI Mockups | Sprint 5 | 100% done |
+| 44 | Integrate Mobile Payment Gateway | [see note: label currently reads "sprint 44"] | 100% done |
+
+*(The board continues up to item 51. I added cards 5 and 44 myself on 23 July 2026.)*
+
+### Reflection
+**Situation:** Our lecturer's feedback and our own ideas kept changing what the project needed.
+**Task:** We needed one ordered list of work so the team knew what mattered most.
+**Action:** We built the backlog on Trello in July. The first cards were added on 22 July 2026 and I added card 5 (High-Fidelity UI Mockups) myself on 23 July. The backlog follows a logical order: research the community, analyse crime, define personas, wireframe, then design mockups. [Add what you did to add or reorder items.]
+**Result:** The backlog let us respond to feedback. After the 4 August presentation we added colour improvements and a logo, and on 5 August the lecturer asked us to start on the system architecture and the business model. [Add your own insight.]
+
+---
+
+## 4. Sprint Backlog
+
+### Evidence
+The sprint backlog is the part of the product backlog the team commits to in one sprint.
+
+We planned our sprints by tagging each product backlog card with a **sprint label** (Sprint 1, Sprint 2, Sprint 3 and so on). The cards with the same label made up that sprint's backlog.
+
+![Sprint labels on the backlog cards](trello-product-backlog.png)
+![Sprint 5 card with my assigned subtask](trello-card-5.png)
+![Sprint 5 card copied for the next stage on 6 August](trello-card-5-copy.png)
+
+| Sprint | Backlog item | Subtasks / owners (examples) | Status |
+|---|---|---|---|
+| Sprint 1 | Conduct Community Needs Assessment in Khayelitsha | Schedule interviews (Zanele M.); field interviews (Naledi) | Done (100%) |
+| Sprint 2 | Analyse Crime & Security Landscape | Crime statistics (Result); crime hotspots (Xiluva); existing security measures (Naledi) | Done (100%) |
+| Sprint 3 | Define Target User Personas | Household (Result); traders (Zanele F.); elderly (Xiluva); patrollers and guards (Naledi); validate (Zanele M.) | Done (100%) |
+| Sprint 4 | Design Low-Fidelity Wireframes for Core App Screens | Onboarding/login screen (Result); incident reporting screen (Naledi) | Done (100%) |
+| Sprint 5 | Design High-Fidelity UI Mockups | Home dashboard (Result); WhatsApp alerts (Xiluva); guard and patrol profile (Zanele M.); notifications screen (Naledi) | Done (100%) |
+
+### Reflection
+**Situation:** We had limited weeks and a long backlog of 51 items.
+**Task:** We needed to choose the work we could realistically finish in each sprint.
+**Action:** We used Trello labels to group backlog cards into sprints and assigned every subtask to a team member. In my sprints I handled field interviews, identifying existing security measures, the patroller and guard persona, and the notifications screen mockup. On 6 August a teammate copied the mockups card so we could keep working on it after the lecturer's feedback. [Add one detail about how you worked within a sprint.]
+**Result:** Grouping work into sprints gave us short goals that we could finish and check off, and each sprint built on the one before it: research, then personas, then design. [Add what you would improve, e.g. adding sprint dates and goals on the board.]
+
+---
+
+## 5. Agile Logbook
+
+### Evidence
+I kept a daily logbook answering: What did I complete? What am I planning next? What are my impediments? What did I learn?
+
+Download my logbooks: [14–17 July](logbooks/Agile_Logbook_14-17_July.pdf) · [21–24 July](logbooks/Agile_Logbook_21-24_July.pdf) · [28–31 July](logbooks/Agile_Logbook_28-31_July.pdf) · [4–7 August](logbooks/Agile_Logbook_4-7_August.pdf)
+
+**Highlights:**
+| Date | What happened | What I learnt |
+|---|---|---|
+| 14 Jul | Business idea session; team assigned presentation roles | Clear roles early make preparation more efficient |
+| 15 Jul | Shared my screen while we presented our idea on Teams; feedback said the idea needed refining | Feedback shows where the idea must improve |
+| 17 Jul | Updated the logbook; team meeting to make sure everyone completed entries | Regular logging helps track progress and spot problems early |
+| 4 Aug | Presented the frontend prototype; the lecturer said it was satisfactory but asked for better colours and a logo | Listening to feedback improves the product |
+| 5 Aug | Presented the updated frontend; the lecturer asked us to start the system architecture and business model | Work moves in stages, each building on the last |
+
+### Reflection
+**Situation:** The lecturer required each team member to keep a daily Agile logbook during the project.
+**Task:** I had to record my progress, problems and learning honestly every day.
+**Action:** I completed the four stand-up questions in each entry. I noted recurring challenges, mainly time management, balancing the project with other modules, finding times when everyone could meet, and some team members' internet problems. We also had trouble pushing our work to GitHub, which we solved together.
+**Result:** The logbook made me think about my work instead of just doing it. It helped me spot risks early and improve communication. I still use the same stand-up questions in my industry placement.
+
+---
+
+## Overall Reflection: Connecting It All
+**Situation:** Over July and August 2026 I worked in an Agile team to design SafeStreet.
+**Task:** I needed to show that I understand Agile practices and can apply them.
+**Action:** I used the team charter, user stories, product and sprint backlogs on Trello, and a daily logbook together. Each one supported the others.
+**Result:** I learnt that Agile is about regular communication, feedback and small steps. Moving to my industry placement in September, I see the same ideas there. [Add one personal sentence on what you will do differently next time.]
+
+---
