@@ -196,10 +196,9 @@ The following PDF presents the Agile Team Charter for the SafeStreet Community S
 ## 2. User Stories and Tasks
 
 ### Evidence
-🔗 [View the full SafeStreet Trello board](https://trello.com/b/urZ9fk2y/safestreet-community-security-solution)
-User stories describe a feature from the user's point of view. Each story was broken into tasks on our Trello board.
+The following evidence presents the user stories and associated tasks created for the SafeStreet Community Security Solution. The Trello board was used to organise project requirements by describing features from the perspective of the intended users and breaking them down into smaller, manageable tasks assigned to team members. The user stories covered key activities, including assessing community security needs in Khayelitsha, analysing the local security landscape, defining target user personas, designing low-fidelity wireframes and high-fidelity UI mockups, and integrating a mobile payment gateway. The accompanying screenshots illustrate how individual cards documented user stories, assigned responsibilities and tracked task completion. Together, these records demonstrate how the team translated project objectives into actionable work items and monitored progress throughout the project.
 
-Every card on our Trello board contains a user story in its description, and the story is broken into subtasks. Each subtask is assigned to a team member and ticked off when done.
+🔗 [View the full SafeStreet Trello board](https://trello.com/b/urZ9fk2y/safestreet-community-security-solution)
 
 ![User story card 1: Community Needs Assessment](trello-card-1.png)
 ![User story card 2: Crime and Security Landscape](trello-card-2.png)
@@ -220,10 +219,15 @@ Every card on our Trello board contains a user story in its description, and the
 Each card's subtasks were shared across all five members, and every card shown reached 100% completion.
 
 ### Reflection
-**Situation:** SafeStreet needed research, design and development work, and no single person could do it all.
-**Task:** We had to turn big goals into small pieces of work that each member could own.
-**Action:** We wrote each backlog item as a user story ("As a..., I want..., so that...") and split it into subtasks with an assigned member. I took tasks such as field interviews with households, businesses and elderly residents, mapping existing security measures, the community patroller and guard persona, and the notifications screen mockup. [Add one detail about how you did one of these, e.g. how an interview went.]
-**Result:** Writing stories from the user's point of view kept us focused on the real needs of Khayelitsha residents instead of just on features. Splitting stories into named subtasks made it clear who was responsible for what, and the checklist progress bars showed our progress at a glance. [Add one thing you would improve, e.g. smaller subtasks or due dates.]
+**Situation:** During the SafeStreet project, our team needed to understand the security challenges experienced by residents of Khayelitsha and translate those needs into practical requirements for a proposed community security solution. The project involved different types of work, including research, user experience design and software development, which required coordination between all five team members.
+
+**Task:** My responsibility as the UI/UX Designer, alongside my contributions to field interviews and user personas, was to help ensure that our design decisions reflected the needs of the intended users. I also needed to contribute to breaking larger project objectives into tasks that could be understood, assigned and tracked.
+
+**Action:** We used Trello to document user stories in the format "As a…, I want…, so that…" and divided them into smaller subtasks with assigned responsibilities. My contributions included field research involving households, businesses and elderly residents, identifying existing security measures, developing a persona for community patrollers and guards, and designing interface elements such as the notifications screen mockup. Organising this work through user stories helped me connect individual tasks to the wider purpose of the application rather than treating each task as an isolated activity.
+
+One important insight I gained from working on SafeStreet was that designing a security application requires more than creating an attractive interface; the design must also make sense in situations where users may feel unsafe or need help quickly. For example, when considering the incident-reporting and notifications features, I recognised the importance of keeping information clear, making key actions easy to identify and avoiding unnecessary complexity. A resident trying to report a security concern should not have to navigate through confusing screens to understand what to do next. This helped me appreciate how user-centred design can influence both usability and the user's confidence in a digital solution. It also encouraged me to think beyond the visual appearance of a screen and consider the user's circumstances, accessibility needs and the practical purpose of each feature. In future projects, I would strengthen this approach by testing my wireframes and mockups with intended users and using their feedback to validate design decisions before development begins.
+
+**Result and learning:** I learnt that effective user stories help a development team understand not only what a feature should do, but also why it matters to the intended user. Breaking work into subtasks made responsibilities clearer and allowed progress to be monitored through Trello checklists. This experience also strengthened my understanding of the relationship between user research, requirements and interface design. In future projects, I would improve the process by ensuring that each task has clear acceptance criteria, realistic due dates and measurable completion requirements. I would also make sure that user stories are reviewed regularly with the team so that misunderstandings can be identified early and changes can be made before they affect later work. Overall, this experience improved my ability to organise design work, collaborate with developers and maintain a user-centred approach to software development.
 
 ---
 <a id="product-backlog"></a>
