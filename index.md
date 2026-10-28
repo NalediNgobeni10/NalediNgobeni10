@@ -162,8 +162,6 @@ My industry placement began in September 2026. As evidence, I have included my S
 
  [View my signed September 2026 Internship Report and Attendance Register (PDF)](https://naledingobeni10.github.io/NalediNgobeni10/Internship_Report_September_2026.pdf)
 
-*(My ID number has been removed from the document to protect my personal information.)*
-
 **Team Members:** Result Mhlongo, Zanele Faith Mashifane, Naledi Ngobeni, Xiluva Nivea Makhuvele and Zanele Mjayezi.
 
 **My Role:** UI/UX Designer, with contributions to field interviews and user personas.
