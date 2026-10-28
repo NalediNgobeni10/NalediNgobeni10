@@ -169,9 +169,10 @@ My industry placement began in September 2026. As evidence, I have included my S
 **Project Tools:** Trello, GitHub and Microsoft Teams.
 
 ![SafeStreet Solution Architecture](https://naledingobeni10.github.io/NalediNgobeni10/safestreet-architecture.png)
-Contents: 1. Agile Team Charter · 2. User Stories and Tasks · 3. Product Backlog · 4. Sprint Backlog · 5. Agile Logbook
+**Contents:** [1. Agile Team Charter](#agile-charter) · [2. User Stories and Tasks](#user-stories) · [3. Product Backlog](#product-backlog) · [4. Sprint Backlog](#sprint-backlog) · [5. Agile Logbook](#agile-logbook)
 ---
 
+<a id="agile-charter"></a>
 ## 1. Agile Team Charter
 
 ### Evidence
@@ -191,6 +192,7 @@ The following PDF presents the Agile Team Charter for the SafeStreet Community S
 
 ---
 
+<a id="user-stories"></a>
 ## 2. User Stories and Tasks
 
 ### Evidence
@@ -224,7 +226,7 @@ Each card's subtasks were shared across all five members, and every card shown r
 **Result:** Writing stories from the user's point of view kept us focused on the real needs of Khayelitsha residents instead of just on features. Splitting stories into named subtasks made it clear who was responsible for what, and the checklist progress bars showed our progress at a glance. [Add one thing you would improve, e.g. smaller subtasks or due dates.]
 
 ---
-
+<a id="product-backlog"></a>
 ## 3. Product Backlog
 
 ### Evidence
@@ -252,7 +254,7 @@ Our Trello board, "SafeStreet Community Security Solution", holds a **Product Ba
 **Result:** The backlog let us respond to feedback. After the 4 August presentation we added colour improvements and a logo, and on 5 August the lecturer asked us to start on the system architecture and the business model. [Add your own insight.]
 
 ---
-
+<a id="sprint-backlog"></a>
 ## 4. Sprint Backlog
 
 ### Evidence
@@ -280,6 +282,7 @@ We planned our sprints by tagging each product backlog card with a **sprint labe
 
 ---
 
+<a id="agile-logbook"></a>
 ## 5. Agile Logbook
 
 ### Evidence
