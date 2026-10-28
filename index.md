@@ -234,9 +234,7 @@ One important insight I gained from working on SafeStreet was that designing a s
 ## 3. Product Backlog
 
 ### Evidence
-The product backlog is the prioritised list of everything the product needs.
-
-Our Trello board, "SafeStreet Community Security Solution", holds a **Product Backlog list of 51 numbered cards**, ordered so that the earliest work comes first. Cards are colour-labelled by sprint and show a checklist progress badge (for example 5/5).
+The following evidence presents the SafeStreet product backlog maintained on Trello. The backlog contains 51 numbered cards representing the research, design and development activities required to progress the proposed community security solution. Items are organised in a logical sequence and labelled by sprint to help the team identify and track planned work. The cards include task checklists and progress indicators, making it easier to monitor completion and identify outstanding activities. The screenshots highlight selected backlog items, including community needs assessment, crime and security analysis, user persona development, wireframing and high-fidelity UI mockups. Together, this evidence demonstrates how Trello was used to organise project requirements, prioritise work and monitor progress throughout the SafeStreet project.
 
 ![Product Backlog list (51 cards)](trello-product-backlog.png)
 
@@ -252,10 +250,13 @@ Our Trello board, "SafeStreet Community Security Solution", holds a **Product Ba
 *(The board continues up to item 51. I added cards 5 and 44 myself on 23 July 2026.)*
 
 ### Reflection
-**Situation:** Our lecturer's feedback and our own ideas kept changing what the project needed.
-**Task:** We needed one ordered list of work so the team knew what mattered most.
-**Action:** We built the backlog on Trello in July. The first cards were added on 22 July 2026 and I added card 5 (High-Fidelity UI Mockups) myself on 23 July. The backlog follows a logical order: research the community, analyse crime, define personas, wireframe, then design mockups. [Add what you did to add or reorder items.]
-**Result:** The backlog let us respond to feedback. After the 4 August presentation we added colour improvements and a logo, and on 5 August the lecturer asked us to start on the system architecture and the business model. [Add your own insight.]
+**Situation:** During the SafeStreet project, our team needed to organise a range of research, design and development activities within a limited period.
+
+**Task:** We needed a product backlog that clearly identified the work required and helped the team understand which activities needed attention as the project progressed.
+
+**Action:** We used Trello to maintain the product backlog, organise tasks into sprint-labelled cards and monitor progress using checklists. I contributed to the backlog by adding the high-fidelity UI mockups item on 23 July 2026, which supported the transition from initial wireframes to more detailed interface designs. The backlog also helped us accommodate evolving project requirements and feedback, including improvements to the interface and further work on the system architecture and business model.
+
+**Result and learning:** I learnt that a product backlog is not simply a list of tasks; it is a planning tool that helps a team organise its priorities and adapt when requirements change. I also gained a better understanding of how design activities contribute to the wider product development process. In future projects, I would improve the backlog by ensuring that every item has clear acceptance criteria, realistic deadlines and consistent sprint labels. This would make priorities easier to understand, progress easier to evaluate and collaboration more effective.
 
 ---
 <a id="sprint-backlog"></a>
