@@ -170,7 +170,7 @@ My industry placement began in September 2026. As evidence, I have included my S
 
 ![SafeStreet Solution Architecture](https://naledingobeni10.github.io/NalediNgobeni10/safestreet-architecture.png)
 **Contents:** [1. Agile Team Charter](#agile-charter) · [2. User Stories and Tasks](#user-stories) · [3. Product Backlog](#product-backlog) · [4. Sprint Backlog](#sprint-backlog) · [5. Agile Logbook](#agile-logbook)
----
+
 
 <a id="agile-charter"></a>
 ## 1. Agile Team Charter
