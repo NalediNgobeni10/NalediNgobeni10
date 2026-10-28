@@ -142,7 +142,7 @@ Thank you for viewing my portfolio. I am eager to contribute my skills and conti
 
 About This Section
 
-This is the second section of my digital portfolio, focusing on the Agile project management practices I applied during my Project-Based Work Integrated Learning (WIL) phase from July to August 2026. During this period, I worked as part of a team of five to develop SafeStreet, a proposed community security solution designed to address security concerns experienced by residents and traders in Khayelitsha, Cape Town. The project focused on exploring how technology could help communities access security-related services more conveniently and improve communication around safety concerns.
+This is the second section of my digital portfolio, focusing on the Agile project management practices I applied during my Project-Based Work Integrated Learning (WIL) phase from July to August 2026. During this period, I worked as part of a team of five to develop SafeStreet, a proposed community security solution designed to address security concerns experienced by residents in Khayelitsha, Cape Town. The project focused on exploring how technology could help communities access security-related services more conveniently and improve communication around safety concerns.
 
 Throughout the project, our team used Agile practices to organise our work, allocate responsibilities, monitor progress and respond to feedback. We used Trello to manage project tasks and track progress, GitHub to support our development workflow, and Microsoft Teams to communicate and present our work. These tools helped us coordinate our activities, share information and keep track of the different stages of the project.
 
