@@ -160,14 +160,17 @@ Proof of Industry Placement
 
 My industry placement began in September 2026. As evidence, I have included my September 2026 Internship Report and attendance register, which was signed by my workplace supervisor. It records my induction in week 1, followed by system training, completion of training certificates and system familiarisation, and it includes my supervisor's comments on my performance and the signed attendance register for the month.
 
-📄 View my signed September 2026 Internship Report and Attendance Register (PDF)
+ [View my signed September 2026 Internship Report and Attendance Register (PDF)](https://naledingobeni10.github.io/NalediNgobeni10/Internship_Report_September_2026.pdf)
 
-(My ID number has been removed from the document to protect my personal information.)
+*(My ID number has been removed from the document to protect my personal information.)*
 
-Team Members: Result Mhlongo, Zanele Faith Mashifane, Naledi Ngobeni, Xiluva Nivea Makhuvele and Zanele Mjayezi. My Role: UI/UX Designer, with contributions to field interviews and user personas. Project Tools: Trello, GitHub and Microsoft Teams.
+**Team Members:** Result Mhlongo, Zanele Faith Mashifane, Naledi Ngobeni, Xiluva Nivea Makhuvele and Zanele Mjayezi.
 
-SafeStreet Solution Architecture
+**My Role:** UI/UX Designer, with contributions to field interviews and user personas.
 
+**Project Tools:** Trello, GitHub and Microsoft Teams.
+
+![SafeStreet Solution Architecture](https://naledingobeni10.github.io/NalediNgobeni10/safestreet-architecture.png)
 Contents: 1. Agile Team Charter · 2. User Stories and Tasks · 3. Product Backlog · 4. Sprint Backlog · 5. Agile Logbook
 ---
 
