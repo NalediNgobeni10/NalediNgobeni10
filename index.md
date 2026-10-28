@@ -177,7 +177,7 @@ Contents: 1. Agile Team Charter · 2. User Stories and Tasks · 3. Product Backl
 ### Evidence
 The following PDF presents the Agile Team Charter for the SafeStreet Community Security Solution, developed as part of our Project-Based Work Integrated Learning (WIL) from July to August 2026. The charter documents the team's purpose and vision, individual roles and responsibilities, Agile working practices, communication channels, decision-making approach, definition of done, core values, risks and constraints, and commitment to collaboration. It provides supporting evidence of how our team organised its activities and applied Agile principles while working towards a proposed community security solution for residents of Khayelitsha. The charter was compiled retrospectively for portfolio purposes using the available project information and records. Open the PDF below to review the complete Agile Team Charter.
 
- [Open the SafeStreet Agile Team Charter (PDF)](https://naledingobeni10.github.io/NalediNgobeni10/Safestreet_Agile_Team_Charter.pdf)
+ [Open the SafeStreet Agile Team Charter (PDF)](https://naledingobeni10.github.io/NalediNgobeni10/SafeStreet_Agile_Team_Charter.pdf)
 
 ### Reflection on the Agile Team Charter
 
