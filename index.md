@@ -140,17 +140,35 @@ Thank you for viewing my portfolio. I am eager to contribute my skills and conti
 # SECOND SECTION: Agile Project Management Portfolio
 ### Project Presentation 3 (PRP370S) – SafeStreet Community Security Solution
 
-## About This Section
-This is the second section of my portfolio. It documents the Agile practices I used during my Project-Based Work Integrated Learning (WIL) phase (July – August 2026), where my team of five built **SafeStreet**, a community security solution for Khayelitsha, Cape Town. I have since been placed in industry (from 1 September 2026), and I now apply the same habits there: daily stand-ups, asking questions early and tracking my tasks.
+About This Section
 
-**Team:** Result Mhlongo (Team Leader), Zanele Faith Mashifane, Naledi Ngobeni, Xiluva Nivea Makhuvele, Zanele Mjayezi
-**My role:** Designer (UI/UX), plus field interviews and user personas
-**Project tools:** Trello, GitHub, Microsoft Teams
+This is the second section of my digital portfolio, focusing on the Agile project management practices I applied during my Project-Based Work Integrated Learning (WIL) phase from July to August 2026. During this period, I worked as part of a team of five to develop SafeStreet, a proposed community security solution designed to address security concerns experienced by residents and traders in Khayelitsha, Cape Town. The project focused on exploring how technology could help communities access security-related services more conveniently and improve communication around safety concerns.
 
-![SafeStreet Solution Architecture](safestreet-architecture.png)
+Throughout the project, our team used Agile practices to organise our work, allocate responsibilities, monitor progress and respond to feedback. We used Trello to manage project tasks and track progress, GitHub to support our development workflow, and Microsoft Teams to communicate and present our work. These tools helped us coordinate our activities, share information and keep track of the different stages of the project.
 
-**Contents:** [1. Agile Team Charter](#1-agile-team-charter) · [2. User Stories and Tasks](#2-user-stories-and-tasks) · [3. Product Backlog](#3-product-backlog) · [4. Sprint Backlog](#4-sprint-backlog) · [5. Agile Logbook](#5-agile-logbook)
+My main responsibility was UI/UX Designer, with additional contributions to field interviews and the development of user personas. This role allowed me to participate in understanding the needs of our intended users and translating those needs into design ideas. My responsibilities included contributing to research, helping identify the needs of different user groups, developing wireframes and creating high-fidelity interface mockups. These activities helped me understand the importance of considering users' needs before making design decisions.
 
+This portfolio section presents evidence of five key Agile components: the Agile Team Charter, User Stories and Tasks, Product Backlog, Sprint Backlog, and Agile Logbook. Each component demonstrates a different aspect of how our team organised and managed the project. The evidence includes relevant project records, Trello cards, screenshots and logbook entries, supported by reflections on my responsibilities, the challenges I experienced and the lessons I gained.
+
+In addition to presenting the project evidence, this section reflects on my personal development throughout the WIL phase. It explains how I contributed to the team's work, how Agile practices helped me manage my responsibilities, and how feedback supported the improvement of our work. It also highlights areas where I believe our approach could be improved in future projects, particularly in planning, task allocation, communication and documenting progress.
+
+Since 1 September 2026, I have been placed in an industry environment, where I have continued to recognise the value of practices such as tracking tasks, asking questions when clarification is needed, communicating challenges early and reflecting on completed work. This has helped me understand that Agile principles are not limited to academic projects; they can also support professional development and effective teamwork in the workplace.
+
+Overall, this section demonstrates my understanding of Agile project management through the work completed during the SafeStreet project. It brings together the evidence of our team's working process and my individual reflections to show what I contributed, what I learnt and how I intend to apply these lessons in future academic and professional projects.
+
+Proof of Industry Placement
+
+My industry placement began in September 2026. As evidence, I have included my September 2026 Internship Report and attendance register, which was signed by my workplace supervisor. It records my induction in week 1, followed by system training, completion of training certificates and system familiarisation, and it includes my supervisor's comments on my performance and the signed attendance register for the month.
+
+📄 View my signed September 2026 Internship Report and Attendance Register (PDF)
+
+(My ID number has been removed from the document to protect my personal information.)
+
+Team Members: Result Mhlongo, Zanele Faith Mashifane, Naledi Ngobeni, Xiluva Nivea Makhuvele and Zanele Mjayezi. My Role: UI/UX Designer, with contributions to field interviews and user personas. Project Tools: Trello, GitHub and Microsoft Teams.
+
+SafeStreet Solution Architecture
+
+Contents: 1. Agile Team Charter · 2. User Stories and Tasks · 3. Product Backlog · 4. Sprint Backlog · 5. Agile Logbook
 ---
 
 ## 1. Agile Team Charter
