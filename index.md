@@ -175,90 +175,19 @@ Contents: 1. Agile Team Charter · 2. User Stories and Tasks · 3. Product Backl
 ## 1. Agile Team Charter
 
 ### Evidence
-*Charter adapted for the SafeStreet project. Last updated: 25 October 2026 (written up for this portfolio; it records how our team actually worked during July – August 2026).*
+The following PDF presents the Agile Team Charter for the SafeStreet Community Security Solution, developed as part of our Project-Based Work Integrated Learning (WIL) from July to August 2026. The charter documents the team's purpose and vision, individual roles and responsibilities, Agile working practices, communication channels, decision-making approach, definition of done, core values, risks and constraints, and commitment to collaboration. It provides supporting evidence of how our team organised its activities and applied Agile principles while working towards a proposed community security solution for residents of Khayelitsha. The charter was compiled retrospectively for portfolio purposes using the available project information and records. Open the PDF below to review the complete Agile Team Charter.
 
-#### 1. Team Purpose & Vision
-- **Team mission:** To make affordable, community-driven security available to residents and traders of Khayelitsha through technology, with patrol tracking, real-time alerts and WhatsApp response.
-- **Problem and who it affects:** Khayelitsha has high crime (theft, robbery and break-ins), crime spikes during load shedding at night, and private security is too expensive for most residents. It affects households, small businesses, informal traders and elderly residents.
-- **Success definition:**
-  - A working SafeStreet app prototype (MVP) covering incident reporting, patrol tracking, emergency alarm and subscription management
-  - Features that are validated by interviews with real Khayelitsha residents and traders
-  - A polished frontend that the lecturer approves
-  - A solution architecture and business model completed
-  - A successful project presentation and logbook submission
-- **Product / service:** SafeStreet Community Security Solution, a web and mobile app built with React.js, Spring Boot and MySQL.
+ [Open the SafeStreet Agile Team Charter (PDF)](https://naledingobeni10.github.io/NalediNgobeni10/Safestreet_Agile_Team_Charter.pdf)
 
-#### 2. Team Members & Roles
-| Name | Role | Key responsibilities |
-|---|---|---|
-| Result Mhlongo | Team Leader | Define the product vision, prioritise the backlog, accept work, liaise with the lecturer |
-| Zanele Faith Mashifane | Presenter | Present the team's work, keep the Trello backlog organised, document progress |
-| Naledi Ngobeni | Designer | UI/UX design (wireframes and high-fidelity mockups), field interviews, user personas |
-| Xiluva Nivea Makhuvele | Developer | Build and implement features, test functionality |
-| Zanele Mjayezi | Developer | Build and implement features, test functionality |
+### Reflection on the Agile Team Charter
 
-#### 3. Ways of Working
-- **Agile framework:** Kanban on Trello, with the product backlog grouped into sprints using sprint labels.
-- **Ceremonies:**
+**Situation:** During the July–August 2026 SafeStreet project, our team of five had to collaborate to develop a proposed community security solution for Khayelitsha while balancing other academic responsibilities. This required us to coordinate our activities, understand our individual responsibilities and communicate effectively to make progress towards our shared project objectives.
 
-| Ceremony | Frequency | Purpose |
-|---|---|---|
-| Daily stand-up | Daily | What I completed, what I plan next, impediments (recorded in each member's Agile logbook) |
-| Sprint planning | Start of each sprint | Choose backlog cards for the sprint and assign subtasks |
-| Lecturer review / demo | At feedback sessions (for example 15 July, 4 and 5 August) | Show completed work and gather feedback |
-| Retrospective | Ongoing, via the reflection line in the logbook | What we learnt and what to improve |
+**Task:** My responsibility as the UI/UX Designer, with additional contributions to field interviews and user personas, required me to understand the needs of our intended users and contribute to translating those needs into design ideas. At the same time, I needed to collaborate with my teammates and ensure that my design-related work supported the overall direction of the project.
 
-#### 4. Working Agreements
-- We show up prepared and on time
-- We respect timeboxes
-- We give constructive feedback
-- We raise blockers early
-- We update the Trello board and our logbooks regularly
-- We communicate absences in advance
-- We complete assigned subtasks or flag delays early
-- We share work-in-progress with the team before marking it done
+**Action:** Throughout the project, we used Trello to organise and track tasks, GitHub to support our development workflow, and Microsoft Teams to communicate and present our work. These tools helped us coordinate activities and monitor progress. I contributed through user research, field interviews, user personas, wireframes and high-fidelity interface mockups. Reflecting on these experiences while compiling the Agile Team Charter helped me recognise the importance of clearly defined roles, shared expectations, regular progress updates and raising challenges before they delay the team's work. It also highlighted the value of reviewing work and using feedback to improve the quality of our deliverables.
 
-#### 5. Communication
-- **Primary channels:** Microsoft Teams (meetings and presentations), WhatsApp group chat
-- **Remote / hybrid norms:** Team meetings run online, and we share our screens when presenting
-
-#### 6. Decision-Making
-Decisions are made by **team consensus**, with the Team Leader deciding after hearing everyone's input when we cannot agree.
-
-#### 7. Definition of Done
-- Subtasks are completed and ticked off in the Trello checklist (progress shows 100%)
-- Work is reviewed by at least one other team member
-- Design and code follow the SafeStreet look (colours and logo, as the lecturer advised)
-- The lecturer or Team Leader accepts the work
-- The work is recorded in the Agile logbook
-
-#### 8. Core Values & Behaviours
-Respect · Transparency · Accountability · Trust · Learning mindset
-
-#### 9. Risks & Constraints
-- **Known risks:** Members falling behind because of other modules, finding times when everyone can meet, some members' internet connectivity, and difficulties pushing the team's work to GitHub.
-- **Dependencies:** Lecturer feedback and approval timelines, reliable internet access, and GitHub and Trello availability.
-- **Constraints:** Time (the project ran from July to August 2026), no budget (we used free tools: Trello, GitHub, Microsoft Teams), and mixed technical skills in the team.
-
-#### 10. Review & Improvement
-The charter is reviewed at the end of each sprint or when feedback changes our way of working.
-
-#### 11. Team Commitment
-By working on this team, we commit to the principles and agreements above.
-
-| Name | Agreement |
-|---|---|
-| Result Mhlongo | |
-| Zanele Faith Mashifane | |
-| Naledi Ngobeni | ✔ |
-| Xiluva Nivea Makhuvele | |
-| Zanele Mjayezi | |
-
-### Reflection
-**Situation:** Our team needed to work together on one project while balancing other modules.
-**Task:** I had to understand and follow the team's shared purpose and working agreements.
-**Action:** I followed the working agreements in daily stand-ups and my logbook, and I took the Designer role (wireframes, mockups, interviews and personas). We only wrote our charter up formally for this portfolio, after the project, so it records how we worked in practice. [Add one specific example of a working agreement you followed.]
-**Result:** I learnt that agreeing roles and ways of working early reduces confusion and saves time. [Add one thing you would do differently.]
+**Result and learning:** This experience strengthened my understanding that successful teamwork involves more than completing individual tasks; it requires accountability, transparency, mutual respect and a shared understanding of what the team is trying to achieve. I also learnt that tools such as Trello are most effective when team members consistently update their tasks and communicate changes or blockers. One area I would improve in future projects is establishing and documenting the team charter at the beginning of the project, rather than compiling it retrospectively. This would allow every member to understand and confirm the agreed responsibilities, communication expectations and definition of done from the outset. I would also encourage more consistent documentation of decisions, progress and feedback throughout each sprint. Overall, the SafeStreet project helped me appreciate how Agile practices can improve collaboration, accountability and continuous improvement, and how these skills can be applied in both future software development projects and my professional workplace environment.
 
 ---
 
