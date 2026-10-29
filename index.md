@@ -276,7 +276,7 @@ The following evidence presents the SafeStreet sprint backlog, which was managed
 
 ![Sprint 5 card with my assigned subtask](trello-card-5.png)
 
-![Sprint 5 card copied on 6 August](trello-card-5-copy.png)
+![Sprint 5 card copied on 6 August](trello-card-6.png)
 
 | Sprint | Backlog item | Subtasks and owners (examples) | Status |
 |---|---|---|---|
