@@ -304,31 +304,67 @@ The Trello cards for Sprints 1 to 4 are shown in full in [Section 2: User Storie
 ## 5. Agile Logbook
 
 ### Evidence
-I kept a daily logbook answering: What did I complete? What am I planning next? What are my impediments? What did I learn?
 
-Download my logbooks: [14–17 July](logbooks/Agile_Logbook_14-17_July.pdf) · [21–24 July](logbooks/Agile_Logbook_21-24_July.pdf) · [28–31 July](logbooks/Agile_Logbook_28-31_July.pdf) · [4–7 August](logbooks/Agile_Logbook_4-7_August.pdf)
+The following evidence presents my Agile logbook, which I kept throughout the SafeStreet project in July and August 2026. The logbook records sixteen working days across four weeks: 14–17 July, 21–24 July, 28–31 July and 4–7 August. Each daily stand-up entry records what I completed since the last stand-up, what I planned to complete next, and the impediments or risks I faced. The entries from 14 to 24 July also include a short reflection on what I learnt that day. Together, the entries show how the project progressed from presenting our business idea, to refining and organising the Trello backlog and sprints, to designing and presenting prototypes, developing the application and preparing the business case and system architecture, and how lecturer feedback shaped each stage.
 
-**Highlights:**
-| Date | What happened | What I learnt |
+Open the logbooks below to review the full entries:
+
+📄 [Logbook: 14–17 July 2026](logbooks/Agile_Logbook_14-17_July.pdf)
+
+📄 [Logbook: 21–24 July 2026](logbooks/Agile_Logbook_21-24_July.pdf)
+
+📄 [Logbook: 28–31 July 2026](logbooks/Agile_Logbook_28-31_July.pdf)
+
+📄 [Logbook: 4–7 August 2026](logbooks/Agile_Logbook_4-7_August.pdf)
+
+**Key moments recorded in the logbook**
+
+| Date | What happened | What it taught us or changed |
 |---|---|---|
-| 14 Jul | Business idea session; team assigned presentation roles | Clear roles early make preparation more efficient |
-| 15 Jul | Shared my screen while we presented our idea on Teams; feedback said the idea needed refining | Feedback shows where the idea must improve |
-| 17 Jul | Updated the logbook; team meeting to make sure everyone completed entries | Regular logging helps track progress and spot problems early |
-| 4 Aug | Presented the frontend prototype; the lecturer said it was satisfactory but asked for better colours and a logo | Listening to feedback improves the product |
-| 5 Aug | Presented the updated frontend; the lecturer asked us to start the system architecture and business model | Work moves in stages, each building on the last |
+| 14 Jul | Attended the business idea session; the team met and assigned presentation roles (presenter, slide designer and screen sharer) | Clear roles early make preparation more efficient |
+| 15 Jul | Shared my screen while we presented our business idea to the lecturer on Microsoft Teams; feedback showed the idea needed refinement | Feedback is part of Agile because it shows weaknesses early |
+| 16 Jul | Refined the business idea documentation and attended another group's presentation | Watching other teams gives ideas for improving our own work |
+| 17 Jul | Team meeting on logbook requirements to make sure everyone completed their entries | Regular logging helps track progress and spot problems early |
+| 21 Jul | Presented the product backlog on Trello; feedback said some tasks were too large | Agile tasks should be small enough to finish in one day |
+| 22 Jul | Refined the backlog; feedback asked for user stories, colour labels and assigned tasks | The backlog needed major changes to follow Agile practice |
+| 23 Jul | Added user stories, organised the backlog into sprint boards and created Sprint 1; the lecturer approved the improvements | Structure makes work easier to assign and track |
+| 24 Jul | Presented the Trello boards and sprint planning, which the lecturer found satisfactory; started designing prototypes in Figma | Planning together helps the team meet milestones |
+| 28 Jul | Presented the Figma prototype, which was approved as ready for development | Design approval allowed development to begin |
+| 29 Jul | The lecturer was off sick, so I could not present progress or get feedback; backend development continued | Work must keep moving even when feedback is delayed |
+| 31 Jul | Completed the backend and started the frontend | Each stage built on the one before it |
+| 4 Aug | Presented the frontend prototype; feedback asked for better colours and a logo | Feedback improves how professional the product looks |
+| 5 Aug | Presented the updated frontend, which was confirmed as satisfactory; the lecturer asked us to start the system architecture and business model | New requirements follow once earlier work is accepted |
+| 6 Aug | Presented the business case, which was approved with feedback to keep refining it | Approval and improvement go together |
+| 7 Aug | Refined the business case and checked that the architecture matched the application's requirements | Documents must match what we actually build |
 
-### Reflection
-**Situation:** The lecturer required each team member to keep a daily Agile logbook during the project.
-**Task:** I had to record my progress, problems and learning honestly every day.
-**Action:** I completed the four stand-up questions in each entry. I noted recurring challenges, mainly time management, balancing the project with other modules, finding times when everyone could meet, and some team members' internet problems. We also had trouble pushing our work to GitHub, which we solved together.
-**Result:** The logbook made me think about my work instead of just doing it. It helped me spot risks early and improve communication. I still use the same stand-up questions in my industry placement.
+### Reflection on the Agile Logbook
+
+**Situation:** The lecturer required every team member to keep an Agile logbook during the SafeStreet project. The project moved quickly, with new feedback and new requirements arriving almost every week, and we were also balancing other modules.
+
+**Task:** My responsibility was to record my progress, plans and problems accurately in each stand-up entry, and to use those records to reflect on how the project and the team were developing.
+
+**Action:** I completed a logbook entry for each working day, answering what I had completed, what I planned to do next and what was getting in my way. The impediments I recorded show the real pressures of the project: finding a time when all team members could meet, internet connectivity problems, coordinating prototype work against a review deadline, the lecturer being unavailable on 29 July, and, most often, time management. Writing these down regularly helped me notice patterns. For example, I saw that time management appeared in many entries, which showed me that our workload needed better planning. The logbook also showed me how feedback shaped the project: the lecturer's comments led us to break large backlog tasks into one-day tasks, rewrite the backlog as user stories with colour labels and assigned owners, improve the colours and add a logo to the interface, and begin the system architecture and business model.
+
+**Result and learning:** I learnt that an Agile logbook is more than a record of what happened; it is a tool for reflection and early problem-solving. Looking back through my entries, I can see how the team moved from a business idea, to an organised Trello backlog and sprints, to prototypes, a working application and a business case, and how each step followed from the feedback before it. It also showed me where I can improve. From 28 July onwards, my entries recorded only the three stand-up questions and left out the daily learning reflection that I included in earlier entries. In future projects, I would keep the reflection in every entry, because that is where much of the learning happens. I would also act on repeated impediments such as time management by raising them with the team and planning for them, instead of only recording them. Overall, the logbook has taught me to reflect regularly and honestly on my work, a habit that I now carry into my workplace.
 
 ---
 
-## Overall Reflection: Connecting It All
-**Situation:** Over July and August 2026 I worked in an Agile team to design SafeStreet.
-**Task:** I needed to show that I understand Agile practices and can apply them.
-**Action:** I used the team charter, user stories, product and sprint backlogs on Trello, and a daily logbook together. Each one supported the others.
-**Result:** I learnt that Agile is about regular communication, feedback and small steps. Moving to my industry placement in September, I see the same ideas there. [Add one personal sentence on what you will do differently next time.]
+## Overall Reflection: Bringing It All Together
+
+**Situation:** Between July and August 2026, I worked as part of a team of five on SafeStreet, a proposed community security solution for residents and traders in Khayelitsha. The project had to be planned, designed and developed in a short period, alongside other academic responsibilities.
+
+**Task:** My task was to apply Agile project management practices to organise and deliver my part of the work, and to demonstrate what I learnt through evidence and reflection. As the UI/UX Designer, with contributions to field interviews and user personas, I also needed to make sure the design work reflected the needs of the people SafeStreet was meant to help.
+
+**Action:** The five components in this portfolio worked together as one system. The Agile Team Charter set out our purpose, roles and working agreements. User stories described each feature from the user's point of view and broke it into subtasks. The product backlog collected all 51 items in one ordered list, and the sprint backlog turned selected items into short, owned commitments. The Agile logbook recorded the day-to-day progress, the problems and the feedback that kept shaping our work. Through Trello, Microsoft Teams and regular lecturer feedback, I contributed field interviews, a persona, wireframes, high-fidelity mockups and prototype interactions.
+
+**Result and learning:** This project taught me that Agile is a way of working built on small steps, regular communication, honest reflection and willingness to change. The most important lessons for me were that user stories keep a team focused on real people, that tasks should be small and clear, that feedback is a gift and not a criticism, and that documentation such as a team charter works best when it is created at the start, not afterwards. Since 1 September 2026, I have been working in an industry placement, where I see the same principles at work: tracking tasks, asking questions when something is unclear, communicating challenges early and reflecting on completed work. These are the habits I take with me into every future project.
+
+---
+
+## Closing Note
+
+Agile taught me that good work is rarely done in one big leap. It grows from small, steady steps, honest conversations and a team that keeps learning together. Every card, sprint and logbook entry in this portfolio is a small part of that journey, and I am proud of what our team built for the people of Khayelitsha and of how much I grew along the way.
+
+Thank you for taking the time to review my portfolio.
 
 ---
