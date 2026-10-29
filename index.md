@@ -263,7 +263,8 @@ The following evidence presents the SafeStreet product backlog maintained on Tre
 ## 4. Sprint Backlog
 
 ### Evidence
-The following evidence presents the SafeStreet sprint backlog, which was managed on the same Trello board as the product backlog. While the product backlog is the complete, ordered list of all 51 items the project might need, the sprint backlog is the smaller selection of those items that the team committed to completing during a particular sprint. We created our sprint backlog by giving each product backlog card a sprint label (Sprint 1, Sprint 2, Sprint 3 and so on), so that all cards carrying the same label formed the work for that sprint. Each of those cards was then broken into subtasks, and every subtask was assigned to a named team member and ticked off when completed. The screenshots and table below show how the first five sprints were planned, who was responsible for each part of the work, and that the planned work was completed.
+
+The following evidence presents the SafeStreet sprint backlog, which was managed on the same Trello board as the product backlog. While the product backlog is the complete, ordered list of all 51 items the project might need, the sprint backlog is the smaller selection of those items that the team committed to completing during a particular sprint. We created our sprint backlog by giving each product backlog card a sprint label (Sprint 1, Sprint 2, Sprint 3 and so on), so that all cards carrying the same label formed the work for that sprint. Each of those cards was then broken into subtasks, and every subtask was assigned to a named team member and ticked off when completed. The screenshots and table below show how the first six sprints were planned, who was responsible for each part of the work, and that the planned work was completed.
 
 | | Product Backlog | Sprint Backlog |
 |---|---|---|
@@ -272,11 +273,11 @@ The following evidence presents the SafeStreet sprint backlog, which was managed
 | **Detail** | User stories and checklists for each item | Sprint labels, subtasks and the named owner of each subtask |
 | **Purpose** | Plan and prioritise what must be built | Decide who does what now, and track it to completion |
 
-![Sprint labels on the backlog cards](trello-product-backlog.png)
-
 ![Sprint 5 card with my assigned subtask](trello-card-5.png)
 
-![Sprint 6 card copied on 6 August](trello-card-6.png)
+![Sprint 6 card: Build Interactive Clickable Prototype](trello-card-6.png)
+
+The Trello cards for Sprints 1 to 4 are shown in full in [Section 2: User Stories and Tasks](#user-stories), where each card's user story, subtasks and assigned team members can be seen. The table below brings them together by sprint.
 
 | Sprint | Backlog item | Subtasks and owners (examples) | Status |
 |---|---|---|---|
@@ -285,6 +286,7 @@ The following evidence presents the SafeStreet sprint backlog, which was managed
 | Sprint 3 | Define Target User Personas | Household persona (Result Mhlongo); small business and trader persona (Zanele F. Mashifane); elderly persona (Xiluva Makhuvele); patroller and guard persona (Naledi Ngobeni); validate personas (Zanele Mjayezi) | Done (100%) |
 | Sprint 4 | Design Low-Fidelity Wireframes for Core App Screens | Onboarding and login screen (Result Mhlongo); incident reporting screen (Naledi Ngobeni) | Done (100%) |
 | Sprint 5 | Design High-Fidelity UI Mockups | Home dashboard (Result Mhlongo); WhatsApp alert screen (Xiluva Makhuvele); guard and patrol profile screen (Zanele Mjayezi); notifications screen (Naledi Ngobeni) | Done (100%) |
+| Sprint 6 | Build Interactive Clickable Prototype | Link wireframes into a clickable prototype flow (Result Mhlongo); add navigation between onboarding, reporting and alarm screens (Zanele F. Mashifane); add micro-interactions for button states and alerts (Naledi Ngobeni); prepare prototype for a usability testing session (Zanele Mjayezi); document the prototype flow in a shared design file (Xiluva Makhuvele) | Done (100%) |
 
 ### Reflection on the Sprint Backlog
 
@@ -292,9 +294,9 @@ The following evidence presents the SafeStreet sprint backlog, which was managed
 
 **Task:** I needed to understand which backlog items belonged to each sprint, complete the subtasks assigned to me, and make sure my work fitted into the sprint it belonged to.
 
-**Action:** We used Trello sprint labels to select cards from the product backlog for each sprint, and every card's subtasks were assigned to a team member. My subtasks followed the stages of the project: conducting field interviews in Sprint 1, identifying existing security measures in Sprint 2, drafting the patroller and guard persona in Sprint 3, sketching the incident reporting wireframe in Sprint 4, and creating the notifications screen mockup in Sprint 5. Ticking each subtask off in the Trello checklist showed when my part of a sprint was finished and let the team see its progress. Following the lecturer's feedback on the interface, a teammate also copied the high-fidelity mockups card on 6 August 2026 so that work on the designs could continue.
+**Action:** We used Trello sprint labels to select cards from the product backlog for each sprint, and every card's subtasks were assigned to a team member. My subtasks followed the stages of the project: conducting field interviews in Sprint 1, identifying existing security measures in Sprint 2, drafting the patroller and guard persona in Sprint 3, sketching the incident reporting wireframe in Sprint 4, creating the notifications screen mockup in Sprint 5, and adding micro-interactions for button states and alerts to the clickable prototype in Sprint 6. Ticking each subtask off in the Trello checklist showed when my part of a sprint was finished and let the team see its progress.
 
-**Result and learning:** I learnt that a sprint backlog differs from a product backlog because it turns a long list of possible work into a short, achievable commitment with clear owners. Seeing my name beside specific subtasks made me more accountable, and the sequence of sprints showed how each stage built on the one before it: research first, then personas, then wireframes and finally detailed mockups. In future projects, I would improve our sprint planning by adding start and end dates and a clear sprint goal to each sprint, so that the team can judge whether a sprint was successful. I would also hold a short review at the end of each sprint to discuss what was completed, what was delayed and what should change in the next sprint.
+**Result and learning:** I learnt that a sprint backlog differs from a product backlog because it turns a long list of possible work into a short, achievable commitment with clear owners. Seeing my name beside specific subtasks made me more accountable, and the sequence of sprints showed how each stage built on the one before it: research first, then personas, then wireframes, detailed mockups and finally an interactive prototype. In future projects, I would improve our sprint planning by adding start and end dates and a clear sprint goal to each sprint, so that the team can judge whether a sprint was successful. I would also hold a short review at the end of each sprint to discuss what was completed, what was delayed and what should change in the next sprint.
 
 ---
 
