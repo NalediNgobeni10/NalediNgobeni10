@@ -245,9 +245,9 @@ The following evidence presents the SafeStreet product backlog maintained on Tre
 | 3 | Define Target User Personas | Sprint 3 | 5/5 done |
 | 4 | Design Low-Fidelity Wireframes for Core App Screens | Sprint 4 | 100% done |
 | 5 | Design High-Fidelity UI Mockups | Sprint 5 | 100% done |
-| 44 | Integrate Mobile Payment Gateway | [see note: label currently reads "sprint 44"] | 100% done |
+| 44 | Integrate Mobile Payment Gateway | Sprint 44 | 100% done |
 
-*(The board continues up to item 51. I added cards 5 and 44 myself on 23 July 2026.)*
+*The board continues up to item 51. The table shows the first five items, and each of these cards is shown in full in [Section 2: User Stories and Tasks](#user-stories).*
 
 ### Reflection
 **Situation:** During the SafeStreet project, our team needed to organise a range of research, design and development activities within a limited period.
