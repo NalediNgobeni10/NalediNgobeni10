@@ -276,7 +276,7 @@ The following evidence presents the SafeStreet sprint backlog, which was managed
 
 ![Sprint 5 card with my assigned subtask](trello-card-5.png)
 
-![Sprint 5 card copied on 6 August](trello-card-6.png)
+![Sprint 6 card copied on 6 August](trello-card-6.png)
 
 | Sprint | Backlog item | Subtasks and owners (examples) | Status |
 |---|---|---|---|
@@ -295,6 +295,7 @@ The following evidence presents the SafeStreet sprint backlog, which was managed
 **Action:** We used Trello sprint labels to select cards from the product backlog for each sprint, and every card's subtasks were assigned to a team member. My subtasks followed the stages of the project: conducting field interviews in Sprint 1, identifying existing security measures in Sprint 2, drafting the patroller and guard persona in Sprint 3, sketching the incident reporting wireframe in Sprint 4, and creating the notifications screen mockup in Sprint 5. Ticking each subtask off in the Trello checklist showed when my part of a sprint was finished and let the team see its progress. Following the lecturer's feedback on the interface, a teammate also copied the high-fidelity mockups card on 6 August 2026 so that work on the designs could continue.
 
 **Result and learning:** I learnt that a sprint backlog differs from a product backlog because it turns a long list of possible work into a short, achievable commitment with clear owners. Seeing my name beside specific subtasks made me more accountable, and the sequence of sprints showed how each stage built on the one before it: research first, then personas, then wireframes and finally detailed mockups. In future projects, I would improve our sprint planning by adding start and end dates and a clear sprint goal to each sprint, so that the team can judge whether a sprint was successful. I would also hold a short review at the end of each sprint to discuss what was completed, what was delayed and what should change in the next sprint.
+
 ---
 
 <a id="agile-logbook"></a>
